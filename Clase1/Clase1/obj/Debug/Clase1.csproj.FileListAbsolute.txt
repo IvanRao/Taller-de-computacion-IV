@@ -1,0 +1,27 @@
+C:\Users\Alumno\Desktop\15-03-18\Clase1\Clase1\bin\Debug\Clase1.exe.config
+C:\Users\Alumno\Desktop\15-03-18\Clase1\Clase1\bin\Debug\Clase1.exe
+C:\Users\Alumno\Desktop\15-03-18\Clase1\Clase1\bin\Debug\Clase1.pdb
+C:\Users\Alumno\Desktop\15-03-18\Clase1\Clase1\obj\Debug\Clase1.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\15-03-18\Clase1\Clase1\obj\Debug\Clase1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\15-03-18\Clase1\Clase1\obj\Debug\Clase1.exe
+C:\Users\Alumno\Desktop\15-03-18\Clase1\Clase1\obj\Debug\Clase1.pdb
+C:\Users\JUAN\Google Drive\Cuarto Cuatrimestre\Taller de computación IV\15-03-18\Clase1\Clase1\bin\Debug\Clase1.exe.config
+C:\Users\JUAN\Google Drive\Cuarto Cuatrimestre\Taller de computación IV\15-03-18\Clase1\Clase1\bin\Debug\Clase1.exe
+C:\Users\JUAN\Google Drive\Cuarto Cuatrimestre\Taller de computación IV\15-03-18\Clase1\Clase1\bin\Debug\Clase1.pdb
+C:\Users\JUAN\Google Drive\Cuarto Cuatrimestre\Taller de computación IV\15-03-18\Clase1\Clase1\obj\Debug\Clase1.csprojResolveAssemblyReference.cache
+C:\Users\JUAN\Google Drive\Cuarto Cuatrimestre\Taller de computación IV\15-03-18\Clase1\Clase1\obj\Debug\Clase1.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\Google Drive\Cuarto Cuatrimestre\Taller de computación IV\15-03-18\Clase1\Clase1\obj\Debug\Clase1.exe
+C:\Users\JUAN\Google Drive\Cuarto Cuatrimestre\Taller de computación IV\15-03-18\Clase1\Clase1\obj\Debug\Clase1.pdb
+C:\Users\Alumno\Desktop\Clase1\Clase1\bin\Debug\Clase1.exe.config
+C:\Users\Alumno\Desktop\Clase1\Clase1\bin\Debug\Clase1.exe
+C:\Users\Alumno\Desktop\Clase1\Clase1\bin\Debug\Clase1.pdb
+C:\Users\Alumno\Desktop\Clase1\Clase1\obj\Debug\Clase1.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Clase1\Clase1\obj\Debug\Clase1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Clase1\Clase1\obj\Debug\Clase1.exe
+C:\Users\Alumno\Desktop\Clase1\Clase1\obj\Debug\Clase1.pdb
+C:\Users\irao\Desktop\Mio\Facu\Clase1\Clase1\bin\Debug\Clase1.exe.config
+C:\Users\irao\Desktop\Mio\Facu\Clase1\Clase1\obj\Debug\Clase1.exe
+C:\Users\irao\Desktop\Mio\Facu\Clase1\Clase1\obj\Debug\Clase1.pdb
+C:\Users\irao\Desktop\Mio\Facu\Clase1\Clase1\bin\Debug\Clase1.exe
+C:\Users\irao\Desktop\Mio\Facu\Clase1\Clase1\bin\Debug\Clase1.pdb
+C:\Users\irao\Desktop\Mio\Facu\Clase1\Clase1\obj\Debug\Clase1.csprojResolveAssemblyReference.cache
