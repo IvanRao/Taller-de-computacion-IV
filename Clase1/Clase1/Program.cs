@@ -11,9 +11,9 @@ namespace Clase1
         static void Main(string[] args)
         {
             int opcion = 0;
-
+            
             Console.WriteLine("Ingrese su opcion (del número 1 al 5 segun el ejercicio que quiera).");
-            opcion = int.Parse(Console.ReadLine());
+            int.TryParse(Console.ReadLine(), out opcion);
 
             switch (opcion)
             {
@@ -33,7 +33,7 @@ namespace Clase1
                     Promedio();
                     break;
                 default:
-                    Console.WriteLine("No hay ejercicio " + opcion );
+                    Console.WriteLine("Ingrese bien la opcion");
                     Console.Read();
                     break;
             }
