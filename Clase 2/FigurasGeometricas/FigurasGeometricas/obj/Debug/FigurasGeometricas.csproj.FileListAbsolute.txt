@@ -1,0 +1,20 @@
+C:\Users\JUAN\Google Drive\Cuarto Cuatrimestre\Taller de computación IV\Clase 3\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe.config
+C:\Users\JUAN\Google Drive\Cuarto Cuatrimestre\Taller de computación IV\Clase 3\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe
+C:\Users\JUAN\Google Drive\Cuarto Cuatrimestre\Taller de computación IV\Clase 3\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.pdb
+C:\Users\JUAN\Google Drive\Cuarto Cuatrimestre\Taller de computación IV\Clase 3\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csprojResolveAssemblyReference.cache
+C:\Users\JUAN\Google Drive\Cuarto Cuatrimestre\Taller de computación IV\Clase 3\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\Google Drive\Cuarto Cuatrimestre\Taller de computación IV\Clase 3\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.exe
+C:\Users\JUAN\Google Drive\Cuarto Cuatrimestre\Taller de computación IV\Clase 3\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.pdb
+C:\Users\irao\Desktop\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe.config
+C:\Users\irao\Desktop\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.exe
+C:\Users\irao\Desktop\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.pdb
+C:\Users\irao\Desktop\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe
+C:\Users\irao\Desktop\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.pdb
+C:\Users\irao\Desktop\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe.config
+C:\Users\Alumno\Desktop\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe
+C:\Users\Alumno\Desktop\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.pdb
+C:\Users\Alumno\Desktop\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.exe
+C:\Users\Alumno\Desktop\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.pdb
